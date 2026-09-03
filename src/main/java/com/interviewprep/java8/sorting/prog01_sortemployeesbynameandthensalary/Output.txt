@@ -1,0 +1,8 @@
+Expected output for all three approaches:
+
+Employee{name='Eric', salary=300000.0}
+Employee{name='Eric', salary=400000.0}
+Employee{name='Hanary', salary=500000.0}
+Employee{name='Hanary', salary=700000.0}
+Employee{name='Jane Doe', salary=200000.0}
+Employee{name='John Doe', salary=100000.0}
